@@ -57,7 +57,7 @@ require (
 	golang.org/x/time v0.0.0-20211116232009-f0f3c7e86c11
 	golang.org/x/tools v0.1.11-0.20220413170336-afc6aad76eb1
 	golang.zx2c4.com/wireguard v0.0.0-20220317000134-95b48cdb3961
-	golang.zx2c4.com/wireguard/windows v0.4.10
+	golang.zx2c4.com/wireguard/windows v0.5.3
 	gvisor.dev/gvisor v0.0.0-20220407223209-21871174d445
 	honnef.co/go/tools v0.4.0-0.dev.0.20220404092545-59d7a2877f83
 	inet.af/netaddr v0.0.0-20211027220019-c74959edd3b6
@@ -251,7 +251,7 @@ require (
 	go4.org/unsafe/assume-no-moving-gc v0.0.0-20211027215541-db492cf91b37 // indirect
 	golang.org/x/exp/typeparams v0.0.0-20220328175248-053ad81199eb // indirect
 	golang.org/x/mod v0.6.0-dev.0.20220106191415-9b9b3d81d5e3 // indirect
-	golang.org/x/text v0.3.7 // indirect
+	golang.org/x/text v0.3.8-0.20211105212822-18b340fc7af2 // indirect
 	golang.org/x/xerrors v0.0.0-20220411194840-2f41105eb62f // indirect
 	golang.zx2c4.com/wintun v0.0.0-20211104114900-415007cec224 // indirect
 	google.golang.org/protobuf v1.27.1 // indirect
